@@ -13,13 +13,13 @@ void main()
    c1++;
  }
  for(i=0; str2[i]!=NULL; i++)
- {
+{
    c2++;
- }
+}
  if(c1>c2)
  {
-     printf("\n%s",str1);
+   printf("\n%s",str1);
  }
 else
-     printf("\n%s",str2);
+   printf("\n%s",str2);
 }
